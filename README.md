@@ -1,6 +1,6 @@
 # Port Inspector & Killer (Windows)
 
-Hướng dẫn bằng tiếng Việt để build file `.exe` từ script Python `port_killer.py` và cách sử dụng.
+Hướng dẫn build file `.exe` từ script Python `port_killer.py` và cách sử dụng.
 
 Mục lục
 - Giới thiệu
